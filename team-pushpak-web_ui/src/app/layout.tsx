@@ -15,6 +15,8 @@ export const metadata: Metadata = {
   description: "Student drone and UAV innovation team focused on research, FPV systems, and engineering excellence.",
 };
 
+import { ParticleNetwork } from "@/components/animations/ParticleNetwork";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -26,9 +28,10 @@ export default function RootLayout({
       className={`${spaceGrotesk.variable} antialiased scroll-smooth`}
       suppressHydrationWarning
     >
-      <body className="min-h-screen flex flex-col bg-[#030305] text-gray-100">
+      <body className="min-h-screen flex flex-col bg-[#030305] text-gray-100 relative">
+        <ParticleNetwork />
         <Navbar />
-        <main className="flex-grow">
+        <main className="flex-grow relative z-10">
           {children}
         </main>
         <Footer />

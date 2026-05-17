@@ -13,7 +13,7 @@ export const PROJECTS = [
     components: ["Pixhawk 4", "Raspberry Pi 4", "LiDAR Sensor", "4K Camera"],
     status: "Completed",
     techStack: ["C++", "Python", "ROS"],
-    image: "/assets/quadcopter.jpg"
+    image: "/assets/quadcopter.png"
   },
   {
     id: "hexacopter",
@@ -22,7 +22,7 @@ export const PROJECTS = [
     components: ["DJI N3", "Jetson Nano", "RTK GPS", "Thermal Camera"],
     status: "In Testing",
     techStack: ["Python", "OpenCV", "CUDA"],
-    image: "/assets/hexacopter.jpg"
+    image: "/assets/hexacopter.png"
   },
   {
     id: "fpv-system",
@@ -31,16 +31,16 @@ export const PROJECTS = [
     components: ["Betaflight FC", "Caddx Vista", "Crossfire Nano", "High KV Motors"],
     status: "Active R&D",
     techStack: ["Betaflight", "C"],
-    image: "/assets/fpv.jpg"
+    image: "/assets/fpv.png"
   },
   {
-    id: "fpv-system",
+    id: "bgmi-system",
     title: "BGMI ",
     description: "Ultra-low latency first-person view drone built for racing and complex maneuver testing.",
     components: ["Betaflight FC", "Caddx Vista", "Crossfire Nano", "High KV Motors"],
     status: "Active R&D",
     techStack: ["Betaflight", "C"],
-    image: "/assets/fpv.jpg"
+    image: "/assets/fpv.png"
   }
 ];
 
@@ -61,19 +61,19 @@ export const TEAM_MEMBERS = [
     name: "Priya Patel",
     role: "Lead Avionics Engineer",
     department: "Electronics",
-    image: "/assets/team-2.jpg"
+    image: "/assets/team-2.png"
   },
   {
     name: "Rohan Gupta",
     role: "Head of Software",
     department: "Software",
-    image: "/assets/team-3.jpg"
+    image: "/assets/team-3.png"
   },
   {
     name: "Neha Singh",
     role: "Aerodynamics Specialist",
     department: "Mechanical",
-    image: "/assets/team-4.jpg"
+    image: "/assets/team-4.png"
   }
 ];
 
