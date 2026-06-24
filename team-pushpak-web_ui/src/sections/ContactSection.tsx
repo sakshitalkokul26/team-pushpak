@@ -115,6 +115,7 @@ export function ContactSection() {
                   <div>
                     <h4 className="text-white font-bold">Call Us</h4>
                     <p className="text-gray-400">+91 9975303466</p>
+                    <p className="text-gray-400">+91 7666390449</p>
                   </div>
                 </div>
               </div>
