@@ -93,8 +93,8 @@ export function ContactSection() {
                     <MapPin />
                   </div>
                   <div>
-                    <h4 className="text-white font-bold">Headquarters</h4>
-                    <p className="text-gray-400">Aerospace Lab, Innovation Center, Tech Campus</p>
+                    <h4 className="text-white font-bold">Team Pushpak</h4>
+                    <p className="text-gray-400">N. K. Orchid College of Engineering & Technology, Solapur</p>
                   </div>
                 </div>
 
@@ -104,7 +104,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <h4 className="text-white font-bold">Email Us</h4>
-                    <p className="text-gray-400">hello@teampushpak.com</p>
+                    <p className="text-gray-400">teampushpak2026@gmail.com</p>
                   </div>
                 </div>
 
@@ -114,7 +114,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <h4 className="text-white font-bold">Call Us</h4>
-                    <p className="text-gray-400">+91 98765 43210</p>
+                    <p className="text-gray-400">+91 9975303466</p>
                   </div>
                 </div>
               </div>
