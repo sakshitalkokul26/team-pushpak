@@ -22,7 +22,7 @@ export const PROJECTS = [
     components: ["DJI N3", "Jetson Nano", "RTK GPS", "Thermal Camera"],
     status: "In Testing",
     techStack: ["Python", "OpenCV", "CUDA"],
-    image: "/assets/hexacopter.png"
+    image: "/assets/Cloud grey.jpg"
   },
   {
     id: "fpv-system",
