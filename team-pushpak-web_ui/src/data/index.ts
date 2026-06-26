@@ -111,7 +111,6 @@ export const MENTORS = [
     name: "Dr. Shriniwas S Metan",
     designation: "Professor",
     department: "Aerospace Engineering"
-   
-  }
+    }
  
 ];
