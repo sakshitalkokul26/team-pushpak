@@ -78,10 +78,26 @@ export const TEAM_MEMBERS = [
 ];
 
 export const TIMELINE_EVENTS = [
-  { year: "2021", title: "Team Founded", description: "Team Pushpak was established with a vision to innovate in UAV tech." },
-  { year: "2022", title: "First Custom Build", description: "Successfully launched our first in-house quadcopter." },
-  { year: "2023", title: "National Competition", description: "Secured Top 5 position at the National Drone Tech Expo." },
-  { year: "2024", title: "Autonomous Navigation", description: "Achieved fully autonomous GPS-denied indoor flight." }
+  {
+    year: "2022",
+    title: "Foundation",
+    description: "Team Pushpak was founded by Rishi Marthe under the guidance of Metan Sir. Quadcopter assembly was completed and the Hexacopter design was initiated."
+  },
+  {
+    year: "2022–2023",
+    title: "Leadership - Rishi Marthe",
+    description: "Established the team, completed the quadcopter assembly, and successfully designed the Hexacopter."
+  },
+  {
+    year: "2023–2025",
+    title: "Leadership - Varsha Manthalkar",
+    description: "Achieved the first successful Hexacopter flight, developed a solar cleaning application, participated in the SAE National Competition, and demonstrated a drone-based wall spray painting application."
+  },
+  {
+    year: "2025–2026",
+    title: "Leadership - Aditya Kalshetti",
+    description: "Achieved autonomous quadcopter flight and initiated the development of FPV Drone, VTOL Aircraft, and Large-Scale Hexacopter projects."
+  }
 ];
 
 export const RND_TOPICS = [
