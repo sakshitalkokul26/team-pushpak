@@ -84,12 +84,12 @@ export const TIMELINE_EVENTS = [
     description: "Team Pushpak was founded by Rishi Marthe under the guidance of Metan Sir. Quadcopter assembly was completed and the Hexacopter design was initiated."
   },
   {
-    year: "2022–2023",
+    year: "2022–2024",
     title: "Leadership - Rishi Marthe",
     description: "Established the team, completed the quadcopter assembly, and successfully designed the Hexacopter."
   },
   {
-    year: "2023–2025",
+    year: "2024–2025",
     title: "Leadership - Varsha Manthalkar",
     description: "Achieved the first successful Hexacopter flight, developed a solar cleaning application, participated in the SAE National Competition, and demonstrated a drone-based wall spray painting application."
   },
