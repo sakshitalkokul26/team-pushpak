@@ -13,7 +13,7 @@ export const PROJECTS = [
     components: ["Pixhawk 4", "Raspberry Pi 4", "LiDAR Sensor", "4K Camera"],
     status: "Completed",
     techStack: ["C++", "Python", "ROS"],
-    image: "/assets/quadcopter.png"
+    image: "/assets/Red WINE.jpg"
   },
   {
     id: "hexacopter",
