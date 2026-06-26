@@ -111,12 +111,7 @@ export const MENTORS = [
     name: "Dr. Shriniwas S Metan",
     designation: "Professor",
     department: "Aerospace Engineering",
-    guidanceArea: "Aerodynamics & Propulsion"
+   
   },
-  {
-    name: "Dr. Ananya Reddy",
-    designation: "Associate Professor",
-    department: "Computer Science",
-    guidanceArea: "AI & Autonomous Systems"
-  }
+ 
 ];
