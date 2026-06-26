@@ -112,6 +112,6 @@ export const MENTORS = [
     designation: "Professor",
     department: "Aerospace Engineering",
    
-  },
+  }
  
 ];
