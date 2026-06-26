@@ -26,7 +26,7 @@ export function AboutSection() {
           >
             <h2 className="text-4xl md:text-5xl font-black uppercase mb-6 flex flex-col">
               <span className="text-gray-400 text-lg tracking-widest mb-2 font-semibold">About Us</span>
-              Pioneering <span className="text-transparent bg-clip-text bg-gradient-to-r from-[var(--color-neon-blue)] to-blue-500">UAV Tech</span>
+              Innovative  <span className="text-transparent bg-clip-text bg-gradient-to-r from-[var(--color-neon-blue)] to-blue-500">UAV Tech</span>
             </h2>
             <p className="text-gray-300 text-lg leading-relaxed mb-8">
              Team Pushpak is a student-led drone development team established in 2022. The team focuses on research, design, manufacturing, and testing of UAVs while encouraging innovation, teamwork, and practical engineering skills among students.
