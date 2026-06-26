@@ -93,7 +93,7 @@ export const RND_TOPICS = [
 
 export const MENTORS = [
   {
-    name: "Dr Shriniwas S Metan",
+    name: "Dr. Shriniwas S Metan",
     designation: "Professor",
     department: "Aerospace Engineering",
     guidanceArea: "Aerodynamics & Propulsion"
