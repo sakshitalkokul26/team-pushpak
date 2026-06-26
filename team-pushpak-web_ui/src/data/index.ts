@@ -80,26 +80,25 @@ export const TEAM_MEMBERS = [
 export const TIMELINE_EVENTS = [
   {
     year: "2022",
-    title: "Foundation",
-    description: "Team Pushpak was founded by Rishi Marthe under the guidance of Metan Sir. Quadcopter assembly was completed and the Hexacopter design was initiated."
+    title: "Team Foundation",
+    description: "Team Pushpak was founded by Rishi Marthe under the guidance of Metan Sir, marking the beginning of the team's journey in UAV development."
   },
   {
     year: "2022–2024",
-    title: "Leadership - Rishi Marthe",
-    description: "Established the team, completed the quadcopter assembly, and successfully designed the Hexacopter."
+    title: "Leadership – Rishi Marthe",
+    description: "Successfully assembled the team's first quadcopter and completed the design of the first hexacopter."
   },
   {
     year: "2024–2025",
-    title: "Leadership - Varsha Manthalkar",
-    description: "Achieved the first successful Hexacopter flight, developed a solar cleaning application, participated in the SAE National Competition, and demonstrated a drone-based wall spray painting application."
+    title: "Leadership – Varsha Manthalkar",
+    description: "Achieved the first successful hexacopter flight, developed a solar cleaning application, participated in the SEA National Competition, and demonstrated drone-based wall spray painting."
   },
   {
     year: "2025–2026",
-    title: "Leadership - Aditya Kalshetti",
-    description: "Achieved autonomous quadcopter flight and initiated the development of FPV Drone, VTOL Aircraft, and Large-Scale Hexacopter projects."
+    title: "Leadership – Aditya Kalshetti",
+    description: "Successfully achieved autonomous quadcopter flight and initiated the development of the FPV Drone, VTOL Aircraft, and Large-Scale Hexacopter projects."
   }
 ];
-
 export const RND_TOPICS = [
   { title: "Autonomous Navigation", description: "Developing AI-driven SLAM algorithms for GPS-denied environments." },
   { title: "Obstacle Detection", description: "Real-time 3D mapping using LiDAR and depth cameras." },
