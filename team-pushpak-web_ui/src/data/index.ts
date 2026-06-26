@@ -108,9 +108,9 @@ export const RND_TOPICS = [
 
 export const MENTORS = [
   {
-    name: "Dr. Shriniwas S Metan",
-    designation: "Professor",
-    department: "Aerospace Engineering"
+    name: "Dr. Shriniwas S. Metan",
+    designation: "Faculty Mentor",
+    department: "Aerospace Engineering",
+    guidanceArea: "Guidance and Technical Mentorship"
   }
- 
 ];
