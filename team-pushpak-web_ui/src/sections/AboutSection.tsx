@@ -5,10 +5,10 @@ import { TEAM_STATS } from "@/data";
 import { Target, Zap, Shield, Cpu } from "lucide-react";
 
 const FEATURES = [
-  { icon: <Target size={24} />, title: "Precision Engineering", desc: "Aerospace-grade design for optimal aerodynamics." },
-  { icon: <Zap size={24} />, title: "Advanced Propulsion", desc: "High-KV motor integration for maximum thrust-to-weight." },
-  { icon: <Shield size={24} />, title: "Robust Frames", desc: "Carbon fiber chassis built for extreme durability." },
-  { icon: <Cpu size={24} />, title: "Smart Avionics", desc: "Custom PCB integration with AI-ready edge computing." },
+  { icon: <Target size={24} />, title: "Drone Development", desc: "Designing, assembling, and testing UAV platforms for practical applications and learning" },
+  { icon: <Zap size={24} />, title: "Research & Innovation", desc: "Exploring new technologies, concepts, and solutions in the field of drone engineering" },
+  { icon: <Shield size={24} />, title: "Teamwork & Collaboration", desc: "Working together across different domains to achieve project goals and continuous improvement" },
+  { icon: <Cpu size={24} />, title: "Practical Learning", desc: "Providing hands-on experience in design, manufacturing, electronics, and flight testing" },
 ];
 
 export function AboutSection() {
@@ -29,7 +29,7 @@ export function AboutSection() {
               Pioneering <span className="text-transparent bg-clip-text bg-gradient-to-r from-[var(--color-neon-blue)] to-blue-500">UAV Tech</span>
             </h2>
             <p className="text-gray-300 text-lg leading-relaxed mb-8">
-              Team Pushpak is a premier student-led innovation lab dedicated to the research, design, and deployment of advanced Unmanned Aerial Vehicles (UAVs). We push the boundaries of autonomous flight, FPV systems, and custom avionics.
+             Team Pushpak is a student-led drone development team established in 2022. The team focuses on research, design, manufacturing, and testing of UAVs while encouraging innovation, teamwork, and practical engineering skills among students.
             </p>
             
             <div className="grid grid-cols-2 gap-6">
