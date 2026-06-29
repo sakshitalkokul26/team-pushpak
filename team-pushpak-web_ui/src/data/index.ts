@@ -1,5 +1,5 @@
 export const TEAM_STATS = [
-  { label: "Projects Built", value: 03 },
+  { label: "Projects Built", value: 3 },
   { label: "Team Members", value: 26 },
   { label: "Competitions", value: 1 },
   { label: "Flight Hours", value: "100+" },
