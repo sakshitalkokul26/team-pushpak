@@ -21,7 +21,6 @@ export function MentorsSection() {
             Guided by industry experts and academic leaders.
           </p>
         </motion.div>
-<center>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           {MENTORS.map((mentor, i) => (
             <motion.div
@@ -41,7 +40,6 @@ export function MentorsSection() {
                 <p className="text-gray-400 text-sm">Focus: {mentor.guidanceArea}</p>
               </div>
             </motion.div>
-  </center>
           ))}
         </div>
       </div>
