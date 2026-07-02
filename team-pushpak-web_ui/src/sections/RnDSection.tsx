@@ -25,7 +25,7 @@ export function RnDSection() {
             Research & <span className="text-transparent bg-clip-text bg-gradient-to-r from-[var(--color-neon-blue)] to-blue-500 text-glow-blue">Development</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            Innovating at the intersection of AI, hardware design, and autonomous navigation.
+            Pioneering unmanned aerial systems through custom embedded logic and innovative aerodynamic design.
           </p>
         </motion.div>
 

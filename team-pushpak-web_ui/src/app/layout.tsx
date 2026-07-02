@@ -11,7 +11,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Team Pushpak | Aerospace Innovation Lab",
+  title: "Team Pushpak",
   description: "Student drone and UAV innovation team focused on research, FPV systems, and engineering excellence.",
 };
 

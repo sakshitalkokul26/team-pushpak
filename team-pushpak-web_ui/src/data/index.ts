@@ -46,34 +46,34 @@ export const PROJECTS = [
 
 export const TEAM_MEMBERS = [
   {
-    name: "Aarav Sharma",
+    name: "Aditya Kalshetti",
     role: "Team Captain",
     department: "Leadership",
-    image: "/assets/team-1.jpeg"
+    image: "/assets/team-7.jpg"
   },
   {
-    name: "Harsh waghmode ",
-    role: "IGL",
-    department: "Assualter",
+    name: "Aryan Bhambure",
+    role: "Vice Captain",
+    department: "Team Management",
     image: "/assets/team-9.jpeg"
   },
   {
-    name: "Priya Patel",
-    role: "Lead Avionics Engineer",
+    name: "Sakshi Talkokul",
+    role: "Software Lead",
+    department: "Software",
+    image: "/assets/team-4.png"
+  },
+  {
+    name: "Samarth Chendke",
+    role: "Design Lead",
+    department: "Mechanical",
+    image: "/assets/team-6.jpg"
+  },
+  {
+    name: "Shraddha Sarvgod",
+    role: "Electronics Lead",
     department: "Electronics",
     image: "/assets/team-2.png"
-  },
-  {
-    name: "Rohan Gupta",
-    role: "Head of Software",
-    department: "Software",
-    image: "/assets/team-3.png"
-  },
-  {
-    name: "Neha Singh",
-    role: "Aerodynamics Specialist",
-    department: "Mechanical",
-    image: "/assets/team-4.png"
   }
 ];
 
@@ -100,10 +100,10 @@ export const TIMELINE_EVENTS = [
   }
 ];
 export const RND_TOPICS = [
-  { title: "Autonomous Navigation", description: "Developing AI-driven SLAM algorithms for GPS-denied environments." },
-  { title: "Obstacle Detection", description: "Real-time 3D mapping using LiDAR and depth cameras." },
-  { title: "Swarm Robotics", description: "Coordinating multi-drone systems for complex search and rescue missions." },
-  { title: "Custom Flight Controllers", description: "Designing PCB layouts tailored for our specific payload requirements." }
+  { title: "Real-Time Vision Systems", description: "Engineering ultra-low latency FPV systems for high-speed precision flight and superior spatial awareness." },
+  { title: "Transitional Flight Dynamics", description: "Combining multirotor vertical agility with fixed-wing aerodynamic efficiency for extended-range missions." },
+  { title: "High-Payload Architecture", description: "Designing large-scale, high power-to-weight architectures to safely and efficiently carry custom heavy payloads." },
+  { title: "Embedded Control Logic", description: "Developing custom flight control logic and integrating advanced telemetry for complex, multi-modal drone hardware." }
 ];
 
 export const MENTORS = [

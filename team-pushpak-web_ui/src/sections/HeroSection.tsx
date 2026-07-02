@@ -25,16 +25,7 @@ export function HeroSection() {
       <div className="container mx-auto px-6 md:px-12 relative z-10 text-center mt-20">
         {mounted && (
           <>
-            <motion.div
-              initial={{ opacity: 0, y: 30 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8, ease: "easeOut" }}
-              className="inline-block mb-4 px-4 py-1.5 rounded-full border border-[var(--color-neon-blue)] bg-blue-900/20 backdrop-blur-md"
-            >
-              <span className="text-[var(--color-neon-blue)] text-sm font-semibold tracking-widest uppercase">
-                Aerospace Innovation Lab
-              </span>
-            </motion.div>
+            
 
             <motion.h1
               initial={{ opacity: 0, y: 40 }}
