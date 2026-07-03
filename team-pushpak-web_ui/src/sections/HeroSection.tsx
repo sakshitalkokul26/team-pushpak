@@ -42,7 +42,7 @@ export function HeroSection() {
               transition={{ duration: 0.8, delay: 0.4, ease: "easeOut" }}
               className="text-lg md:text-2xl text-gray-300 max-w-3xl mx-auto mb-10 font-light"
             >
-              Engineering the Future of Autonomous Flight. Student drone and UAV innovation team focused on research, FPV systems, and engineering excellence.
+              A student-led UAV innovation team dedicated to the research, design, development, and testing of advanced drone systems.
             </motion.p>
 
             <motion.div
