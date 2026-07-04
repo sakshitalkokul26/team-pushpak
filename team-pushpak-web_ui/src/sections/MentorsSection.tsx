@@ -29,7 +29,7 @@ export function MentorsSection() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: i * 0.2 }}
-              className="flex items-center gap-6 glass-panel p-6 border-white/5 hover:border-[var(--color-brand-yellow)]/30 transition-colors"
+             className="flex items-center gap-6 glass-panel p-6 border-white/5 hover:border-[var(--color-brand-yellow)]/30 transition-colors mx-auto"
             >
               <div className="w-16 h-16 rounded-full bg-white/10 flex items-center justify-center shrink-0 border border-white/20">
                 <UserCheck className="text-[var(--color-brand-yellow)]" />
