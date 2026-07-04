@@ -99,7 +99,12 @@ export const TIMELINE_EVENTS = [
     description: "Successfully achieved autonomous quadcopter flight and initiated the development of the FPV Drone, VTOL Aircraft, and Large-Scale Hexacopter projects."
   }
 ];
-
+export const RND_TOPICS = [
+  { title: "Real-Time Vision Systems", description: "Engineering ultra-low latency FPV systems for high-speed precision flight and superior spatial awareness." },
+  { title: "Transitional Flight Dynamics", description: "Combining multirotor vertical agility with fixed-wing aerodynamic efficiency for extended-range missions." },
+  { title: "High-Payload Architecture", description: "Designing large-scale, high power-to-weight architectures to safely and efficiently carry custom heavy payloads." },
+  { title: "Embedded Control Logic", description: "Developing custom flight control logic and integrating advanced telemetry for complex, multi-modal drone hardware." }
+];
 
 export const MENTORS = [
   {
